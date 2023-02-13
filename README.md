@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armandowni
 - 👀 I’m interested in website, pwa, and mobile
 - 🌱 I’m currently learning website
-- 💞️ I’m looking to collaborate on Mandiri Bank
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me Instagram:armandowni
 
 <!---
